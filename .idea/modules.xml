@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GitTest.iml" filepath="$PROJECT_DIR$/GitTest.iml" />
+      <module fileurl="file://C:\Users\bahri\Desktop\GitTest-master\GitTest\GitTest.iml" filepath="C:\Users\bahri\Desktop\GitTest-master\GitTest\GitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\bahri\Desktop\GitTest-master\GitTest\app\app.iml" filepath="C:\Users\bahri\Desktop\GitTest-master\GitTest\app\app.iml" />
     </modules>
   </component>
 </project>
