@@ -11,5 +11,7 @@ int a, karim_ya3tih_3asba=3,oss=6;
         setContentView(R.layout.activity_main);
         a=0;
         karim_ya3tih_3asba=0;
+        String iheb="bhim";
+
     }
 }
